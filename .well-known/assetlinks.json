@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.novaxsite.app",
+      "sha256_cert_fingerprints": [
+        "D7:4F:96:B0:EB:FF:BD:4E:85:7C:F5:3C:FA:12:B3:C5:74:E6:67:87:34:1C:40:94:8F:4D:FF:C6:3A:00:14:9A"
+      ]
+    }
+  }
+]
