@@ -1,0 +1,2 @@
+# assetlinks
+DNSINTERMEDIO DE MI WEB
